@@ -1,5 +1,5 @@
 public class WebScraper {
     public static void main(String[] args) {
-        System.out.println("Ran");
+        System.out.println("New changes");
     }
 }
